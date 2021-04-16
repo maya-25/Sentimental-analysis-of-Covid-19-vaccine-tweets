@@ -11,3 +11,7 @@
 * Tried making word clouds for the most important words or highly occured words in corpus or text.
 
 # Bidirectional LSTM deep learning techique for training the model - sequences to vectors
+
+accuracy - 92%
+
+![Heat map for confusion matrix](wordcloud.png)
