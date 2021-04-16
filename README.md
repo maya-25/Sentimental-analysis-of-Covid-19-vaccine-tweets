@@ -14,5 +14,5 @@
 
 accuracy - 92%
 
-![heapmap for confusion matrix](confusion_matrix.png)
+![heapmap for confusion matrix](confusion_matrix.PNG)
 ![wordcloud](wordcloud.png)
