@@ -12,6 +12,8 @@
 
 # Bidirectional LSTM deep learning techique for training the model - sequences to vectors
 
+Now Working on webapp and deployment using docker container on AWS cloud
+
 accuracy - 92%
 
 ![heapmap for confusion matrix](confusion_matrix.PNG)
