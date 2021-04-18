@@ -13,8 +13,8 @@
 # Bidirectional LSTM deep learning techique for training the model - sequences to vectors
 
 deployed webapp in local using streamlit and now working on deployment using docker container on AWS cloud
-
-accuracy - 92%
+![website screenshot](website_screenshot.PNG)
+# Accuracy - 92%**
 
 ![heapmap for confusion matrix](confusion_matrix.PNG)
 ![wordcloud](wordcloud.png)
