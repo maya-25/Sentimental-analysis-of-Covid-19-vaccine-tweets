@@ -12,7 +12,7 @@
 
 # Bidirectional LSTM deep learning techique for training the model - sequences to vectors
 
-Now Working on webapp and deployment using docker container on AWS cloud
+deployed webapp in local using streamlit and now working on deployment using docker container on AWS cloud
 
 accuracy - 92%
 
