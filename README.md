@@ -18,5 +18,6 @@ deployed webapp in local using streamlit and now working on deployment using doc
 
 ![heapmap for confusion matrix](confusion_matrix.PNG)
 
- #word cloud represents the frequency of most important or mostly used word in tweets.
+# word cloud 
+represents the frequency of most important or mostly used word in tweets.
 ![wordcloud](wordcloud.png)
